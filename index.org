@@ -1,0 +1,36 @@
+#+TITLE: Aldo Jimenez Wiehoff C.E. Student
+#+AUTHOR: Aldo Jimenez Wiehoff
+#+EMAIL: aldojimenezw@gmail.com
+#+DATE: 2024-11-08
+#+DESCRIPTION: Personal portfolio and blog for research and studies
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="assets/style.css" />
+#+OPTIONS: toc:nil num:nil
+#+LANGUAGE: en
+
+* Welcome to My Portfolio
+Hi, i'm Aldo, a Computer Engineer student of the Adolfo Ibáñez University. This site contains my projects, publications, and a blog where I share ideas and updates on my studies.
+
+* Experience
+During my time at university, I have worked in the following positions
+
+** Adolfo Ibáñez University: Computer Enginner Laboratoty Assistant
+   - **Summary**: Lab assistant at the Adolfo Ibañez University, creating a cluster with Kubernetes for the use of students and professors within the university.
+   - **Technologies**: Kubernetes · Web Services · Servers · Cable Management
+   - [[file:posts/project1.org][Read more about this project]]
+
+** Cloud And Digital: Web Developer
+   - **Summary**: In this position I was in charge of website optimisation and SEO.
+   - **Technologies**: Next.js · Scrum · Agile Methodologies · Search Engine Optimization (SEO) · Web Development · Front-End Development · Node.js · TypeScript · React.js
+   - [[file:posts/project2.org][Read more about this project]]
+
+* About Me
+I am a lover of programming and the whole geek world, I am constantly trying to learn new technologies and ways to be more profuctive. Currently my IDE is Emacs and I'm loving Org-mode, in fact this page was created in org-mode. On the other hand, I'm trying every day to get away from the distractions of this world where they fill you with information, so I'm looking to switch to a dumb phone and I'm immersed in the world of minimalism (including digital minimalism, a bit hypocritical for a computer enginer). So expect to see in this blog my projects, summaries of my learning of new technologies such as programming languages, reflections and book reviews.
+* Contact
+For questions, collaborations, or just to connect, feel free to reach out through the following channels:
+
+   - **Email**: aldojimenezw@gmail.com
+   - **LinkedIn**: [[https://www.linkedin.com/in/aldo-jiménez-wiehoff][www.linkedin.com/in/aldo-jiménez-wiehoff]]
+   - **GitHub**: [[https://github.com/AldoJimenezW][github.com/AldoJimenezW]]
+
+* Blog
+In my [[file:blog.org][Blog]], I share insights and learnings from the articles and books I read, as well as updates on my research and projects.

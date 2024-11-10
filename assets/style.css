@@ -1,0 +1,85 @@
+/* General Styling */
+body {
+    font-family: Arial, sans-serif;
+    color: #333;
+    line-height: 1.6;
+    margin: 0;
+    padding: 1rem;
+    background-color: #f4f4f9;
+}
+
+/* Header Styling */
+h1, h2, h3 {
+    color: #2e8b57; /* Dark green for headers */
+    border-bottom: 2px solid #ccc;
+    padding-bottom: 0.3rem;
+    margin-bottom: 0.5rem;
+}
+
+h1 {
+    font-size: 2rem;
+}
+
+h2 {
+    font-size: 1.5rem;
+}
+
+h3 {
+    font-size: 1.25rem;
+}
+
+/* Links */
+a {
+    color: #007acc;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #005f99;
+    text-decoration: underline;
+}
+
+/* List Styling */
+ul {
+    list-style-type: square;
+    margin-left: 1.5rem;
+}
+
+li {
+    margin-bottom: 0.3rem;
+}
+
+/* Table Styling */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 1rem;
+}
+
+table, th, td {
+    border: 1px solid #ddd;
+}
+
+th, td {
+    padding: 0.5rem;
+    text-align: left;
+}
+
+th {
+    background-color: #e9ecef;
+}
+
+/* Section Spacing */
+section {
+    margin-bottom: 2rem;
+}
+
+/* Blockquote Styling */
+blockquote {
+    font-style: italic;
+    color: #555;
+    padding: 0.5rem 1rem;
+    margin: 1rem 0;
+    border-left: 4px solid #ccc;
+    background-color: #f9f9f9;
+}
